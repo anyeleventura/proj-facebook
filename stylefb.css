@@ -1,7 +1,6 @@
 body {
-    background-color: #f3f3f3;
-    height: 100vh;
-    justify-content: space-around;
+    background-color: #f0f2f5;
+    justify-content: center;
     align-items: center;
     display: flex;
 }
@@ -13,7 +12,7 @@ img {
 form {
     margin-top: 20px;
     box-shadow: 0 4px 8px #b6b6b6;
-    width: 355px;
+    width: 370px;
     background-color: #ffffff;
     padding: 15px 16px 28px;
     border-radius: 8px;
@@ -21,20 +20,18 @@ form {
     font-family: Arial, Helvetica, sans-serif;
 }
 .direita {
-    margin-top: 30px;
-    width: 30%;
+    padding-top: 18vh;
 }
 .esquerda {
     font-family: Helvetica, Arial, sans-serif;
-    width: 260px;
+    padding-right: 14vh;
 }
 h2 {
-    padding: 0; 
-    font-size: 28px;
+    font-size: 1.8rem;
     line-height: 32px;
-    width: 350px;
+    width: 83vh;
     color: #1c1e21;
-    margin-top: 24px;
+    margin-top: 3vh;
     font-weight: normal;
 }
 input {
@@ -100,8 +97,8 @@ p {
     font-family: SFProText-Regular, Helvetica, Arial, sans-serif;
     color: #1c1e21;
     font-size: 14px;
-    padding-top: 0;
     width: 420px;
+    text-align: center;
 }
 .a2{
     color: #1c1e21;
